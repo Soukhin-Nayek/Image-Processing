@@ -29,3 +29,8 @@ result of after applying DFS algorithm.
 result after applying A* algorithm.
 
 ![image](https://user-images.githubusercontent.com/95396672/193440613-c88c5c89-8954-464d-bb33-afdf85a48cad.png)
+
+
+
+#Certificate of completion.
+[Soukhin Nayek_WinterSchool_Certificate.pdf](https://github.com/Soukhin-Nayek/Image-Processing/files/9691888/Soukhin.Nayek_WinterSchool_Certificate.pdf)
